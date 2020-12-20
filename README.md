@@ -1,2 +1,2 @@
-# song-recommendation
+# emoji-search
 Created with CodeSandbox
